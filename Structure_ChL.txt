@@ -1,0 +1,7 @@
+Checklist include columns with
+-number
+-module
+-detailed list of checks
+-requirement (result - yes/no)
+-check status
+-testing results 
