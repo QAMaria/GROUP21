@@ -1,0 +1,16 @@
+1) Bug Number/id
+A Bug number or an identification number (like swb001) makes bug reporting and referring to a bug much easier. The developer can easily check if a particular bug has been fixed or not. It makes the whole testing and retesting process smoother and easier.
+2) Bug Title
+A Bug title is read more often than any other part of the bug report. It should say all about what comes in the bug.
+3) Description
+Bug description helps the developer to understand the bug. It describes the problem encountered. The poor description will create confusion and waste the time of the developers and the testers as well.
+4) Steps to Reproduce
+A good Bug report should clearly mention the steps to reproduce. The steps should include actions that cause the bug. Don’t make generic statements. Be specific in the steps to follow.
+5) Expected and Actual Result
+A Bug description is incomplete without the Expected and Actual results. It is necessary to outline what is the outcome of the test and what the user should expect. The reader should know what the correct outcome of the test is. Clearly, mention what happened during the test and what was the outcome.
+6) Additional info. Screenshot or screencast
+A picture is worth a thousand words. Take a Screenshot of the instance of failure with proper captioning to highlight the defect. Highlight unexpected error messages with light red color. This draws attention to the required area.
+7) Severity. Priority
+Based on the severity of the bug, a priority can be set for it. A bug can be a Blocker, Critical, Major, Minor, Trivial, or a suggestion. A bug priority from P1 to P5 can be given so that the important ones are viewed first. (ASAP, High, Normal, Low)
+8) Platform/Environment
+The OS and browser configuration is necessary for a clear bug report. It is the best way to communicate how the bug can be reproduced.
